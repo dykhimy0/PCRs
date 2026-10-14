@@ -1,0 +1,24 @@
+# data rasters: public, re-downloadable (see README section 3)
+data/*.npy
+data/**/*.npy
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# figure build intermediates
+*.panel-alignment.json
+*.panel-alignment.svg
+*.collision-audit.json
+*.collision-audit.pdf

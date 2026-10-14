@@ -1,0 +1,2 @@
+n_composition_states,n_joint_states,mean_target,var_lower,var_upper,tail_at_mean_lower,tail_at_mean_upper,projection_marginal_var,independent_var,comonotonic_var,projection_support_size
+15,225,0.3,0.004256250000000001,0.052500000000000005,0.10819999999999998,0.6966000000000001,0.0525,0.02625,0.0525,5

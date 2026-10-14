@@ -1,0 +1,9 @@
+# normalise line endings so the SHA256SUMS manifest stays valid
+* text=auto eol=lf
+
+# binary assets must never be touched
+*.png binary
+*.pdf binary
+*.npy binary
+*.tif binary
+*.zip binary
